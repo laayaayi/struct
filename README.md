@@ -1,3 +1,8 @@
+#10_lab_work
+#create and manipulate a struct to store and process information about books in a
+library, with additional functionality for more complex operations
+
+
 #include <stdio.h>
 #include <string.h>
 #define NUM_BOOK 5
